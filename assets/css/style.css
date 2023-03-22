@@ -1,4 +1,13 @@
 .card:hover {
 scale: 1.2;
 transition: 0.8s;
+rotate: 360deg;
+}
+
+body{
+    background-color: brown;
+}
+
+.row {
+    margin: 9rem 0;
 }
