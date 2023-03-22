@@ -37,6 +37,7 @@ for (let i = 0; i < team.length; i++) {
     console.log(thisteam);
     console.log(thisteam.nome);
     console.log(thisteam.ruolo);
+    console.log(thisteam.img);
     const markup = `
     <div class="col">
         <div class="card">
